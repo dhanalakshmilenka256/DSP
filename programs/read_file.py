@@ -1,0 +1,5 @@
+file=open("f1.txt","r")
+text=file.read()
+print(text)
+file.close()
+print("reading")

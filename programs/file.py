@@ -1,0 +1,5 @@
+file=open("f1.txt",'w')
+print("file is created")
+file.write("hello world...")
+file.close()
+print("end of the file")
