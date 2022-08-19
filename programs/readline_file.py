@@ -1,6 +1,0 @@
-file=open("f1.txt","r")
-text=file.readline()
-x=file.readlines()
-print(text)
-print(x)
-file.close()
